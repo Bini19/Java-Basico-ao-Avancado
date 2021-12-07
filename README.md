@@ -43,3 +43,10 @@ Júnior
 **Data das edições deste arquivo:**
 
 - 15/11/2021
+- 07/12/2021
+
+
+### Autor
+---
+
+Feito por Guilherme Bini 👋🏽 
